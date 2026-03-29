@@ -94,7 +94,7 @@ def home():
         <div class="container">
 
             <!-- LOGO -->
-            <img src="/static/static.png" class="logo">
+            <img src="https://github.com/pardinho04/hospital-dos-oculos/blob/main/Captura%20de%20tela%202026-03-28%20234922.png?raw=true" class="logo">
 
             <h1>Hospital Dos Óculos</h1>
             <p>Especialistas em consertos há mais de 30 anos!</p>
